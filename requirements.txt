@@ -7,3 +7,4 @@ pandas==0.25.3
 requests==2.22.0
 scipy==1.5.2
 XlsxWriter==1.2.2
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
